@@ -11,7 +11,3 @@ This project illustrates multiple interactive data visualization dashboards usin
 
 ### Works Cited
 Riedman, David. "K-12 School Shooting Database" (2022). [June 18, 2024]
-
-### Contact
-- LinkedIn: https://linkedin.com/in/capco
-- Project Link: https://github.com/veronicacapco/data-visualization-school-shooting
